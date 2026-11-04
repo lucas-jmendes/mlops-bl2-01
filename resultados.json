@@ -1,0 +1,117 @@
+{
+  "cesar-fachada-1.webp": {
+    "luminance_mean": 92.67,
+    "r_mean": 107.8,
+    "g_mean": 86.95,
+    "b_mean": 82.52,
+    "sharpness": 1895.53,
+    "colorfulness": 61.76,
+    "main_object": "potted plant",
+    "main_object_conf": 0.731,
+    "n_objects": 4,
+    "detections": [
+      {
+        "label": "person",
+        "conf": 0.791,
+        "area_frac": 0.0104,
+        "box": [
+          848.7,
+          389.0,
+          51.6,
+          119.1
+        ]
+      },
+      {
+        "label": "person",
+        "conf": 0.761,
+        "area_frac": 0.0208,
+        "box": [
+          504.1,
+          382.5,
+          65.5,
+          187.3
+        ]
+      },
+      {
+        "label": "car",
+        "conf": 0.744,
+        "area_frac": 0.0025,
+        "box": [
+          976.4,
+          408.7,
+          46.4,
+          31.9
+        ]
+      },
+      {
+        "label": "potted plant",
+        "conf": 0.731,
+        "area_frac": 0.0679,
+        "box": [
+          565.0,
+          279.5,
+          162.8,
+          245.8
+        ]
+      }
+    ]
+  },
+  "cesar-school-fachada-predio-brum.webp": {
+    "luminance_mean": 126.17,
+    "r_mean": 144.72,
+    "g_mean": 119.02,
+    "b_mean": 114.36,
+    "sharpness": 842.56,
+    "colorfulness": 57.74,
+    "main_object": "potted plant",
+    "main_object_conf": 0.901,
+    "n_objects": 3,
+    "detections": [
+      {
+        "label": "potted plant",
+        "conf": 0.901,
+        "area_frac": 0.0422,
+        "box": [
+          56.9,
+          226.5,
+          109.6,
+          164.3
+        ]
+      },
+      {
+        "label": "potted plant",
+        "conf": 0.848,
+        "area_frac": 0.015,
+        "box": [
+          375.1,
+          277.2,
+          65.1,
+          98.1
+        ]
+      },
+      {
+        "label": "potted plant",
+        "conf": 0.744,
+        "area_frac": 0.0256,
+        "box": [
+          568.7,
+          240.0,
+          85.7,
+          127.1
+        ]
+      }
+    ]
+  },
+  "thumb-podcast-cesar-school-1.webp": {
+    "luminance_mean": 165.41,
+    "r_mean": 254.72,
+    "g_mean": 144.39,
+    "b_mean": 39.65,
+    "sharpness": 46.02,
+    "colorfulness": 140.53,
+    "main_object": "nenhum",
+    "main_object_conf": 0.0,
+    "n_objects": 0,
+    "detections": []
+  }
+}

@@ -1,0 +1,4 @@
+image,luminance_mean,r_mean,g_mean,b_mean,sharpness,colorfulness,main_object,main_object_conf,n_objects
+cesar-fachada-1.webp,92.67,107.8,86.95,82.52,1895.53,61.76,potted plant,0.731,4
+cesar-school-fachada-predio-brum.webp,126.17,144.72,119.02,114.36,842.56,57.74,potted plant,0.901,3
+thumb-podcast-cesar-school-1.webp,165.41,254.72,144.39,39.65,46.02,140.53,nenhum,0.0,0
